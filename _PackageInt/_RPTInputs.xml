@@ -1,0 +1,13 @@
+<RPTInputs>
+	<RPTInput Path="C:\Users\Carl Wicker\Documents\MyFSProjects\EGKA\PackageDefinitions\drone-airport-egka-shoreham\ContentInfo\Thumbnail.jpg">
+		<Package Name="drone-airport-egka-shoreham">
+			<AssetGroup Name="ContentInfo"/>
+		</Package>
+	</RPTInput>
+	<RPTInput Path="C:\Users\Carl Wicker\Documents\MyFSProjects\EGKA\PackageSources\Scenery\airport-egka-shoreham\scenery\EGKA.xml">
+		<Package Name="drone-airport-egka-shoreham">
+			<AssetGroup Name="scenery"/>
+		</Package>
+	</RPTInput>
+</RPTInputs>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport displayName="Shoreham" groupID="4294967295" groupGenerated="FALSE" name="Shoreham" ident="EGKA" lat="50.83554401993752" lon="-0.29717668890953" alt="1.72200012207031" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE">
+		<AirportArchetype/>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>
+

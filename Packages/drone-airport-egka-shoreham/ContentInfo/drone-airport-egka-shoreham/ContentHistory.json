@@ -1,0 +1,10 @@
+{
+  "package-name": "drone-airport-egka-shoreham",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "EGKA",
+      "revision": 1
+    }
+  ]
+}
