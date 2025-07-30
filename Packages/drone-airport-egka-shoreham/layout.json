@@ -2,13 +2,13 @@
   "content": [
     {
       "path": "bglindex.bout",
-      "size": 583,
-      "date": 133983048680006009
+      "size": 612,
+      "date": 133983094050006009
     },
     {
       "path": "contentinfo/drone-airport-egka-shoreham/contenthistory.json",
       "size": 151,
-      "date": 133983048680000000
+      "date": 133983094050000000
     },
     {
       "path": "contentinfo/drone-airport-egka-shoreham/thumbnail.jpg",
@@ -17,8 +17,8 @@
     },
     {
       "path": "scenery/airport-egka-shoreham/scenery/egka.bgl",
-      "size": 347,
-      "date": 133983048680000006
+      "size": 578,
+      "date": 133983094050000006
     }
   ]
 }

@@ -1,10 +1,16 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
-	<Airport displayName="Shoreham" groupID="4294967295" groupGenerated="FALSE" name="Shoreham" ident="EGKA" lat="50.83554401993752" lon="-0.29717668890953" alt="1.72200012207031" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE">
-		<AirportArchetype/>
+	<Airport displayName="Shoreham" groupID="1" groupGenerated="FALSE" region="South East" country="England" state="Sussex" city="Brighton" name="Shoreham" ident="EGKA" lat="50.83554401989785" lon="-0.29717668890945" alt="1.72199436184019" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<AirportArchetype archetypeGUID="{AF26C3B4-3ACC-42BF-A72F-FFB8C8C162E3}">
+			<ParamOverride name="SealedJointOpacity" value="0.922"/>
+		</AirportArchetype>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
+		<Com frequency="130.979999" type="ATIS" name="Shoreham Information ATIS"/>
+		<Com frequency="125.400000" type="TOWER" name="Shoreham Tower"/>
+		<Com frequency="123.150000" type="APPROACH" name="Shoreham Approach"/>
+		<Com frequency="123.150000" type="TOWER" name="Shoreham Tower"/>
 	</Airport>
 </FSData>
 
